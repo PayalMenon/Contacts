@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Contacts</string>
+    <string name="loading">Loading</string>
+    <string name="permission_info">Application needs permission to read contacts and proceed further</string>
+    <string name="ok">OK</string>
+    <string name="exit">EXIT</string>
+    <string name="send_message">SEND MESSAGE</string>
+    <string name="test_message">Testing message sending from MyContacts app</string>
+</resources>
